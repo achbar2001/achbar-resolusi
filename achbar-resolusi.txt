@@ -1,5 +1,5 @@
 - konsisten dalam belajar
-- harus bisa website
 - harus paham coding
 - paham dalam database
 - melakukan ta dengan baik
+- bisa html css javascript
